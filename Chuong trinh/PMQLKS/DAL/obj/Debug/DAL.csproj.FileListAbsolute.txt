@@ -1,0 +1,42 @@
+D:\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+D:\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+D:\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+D:\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+D:\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+D:\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\bin\Debug\DAL.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\DAL\obj\Debug\DAL.pdb

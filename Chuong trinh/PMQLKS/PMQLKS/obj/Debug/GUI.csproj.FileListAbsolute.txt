@@ -1,0 +1,325 @@
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+D:\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+D:\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+E:\BTL_WIN\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyPhong.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+D:\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyPhong.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyNhanVien.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyNhanVien.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyPhong.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+D:\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formDatPhong.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyNhanVien.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyPhong.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formThanhToan.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.dep
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.rda
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\lib\invoice.html
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.datPhong.resources
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.Desktop.v20.2.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.v20.2.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Printing.v20.2.Core.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Sparkline.v20.2.Core.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Utils.v20.2.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.XtraEditors.v20.2.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.v20.2.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Utils.v20.2.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+E:\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\lib\invoice.html
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe.config
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.exe
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\PMQLKS.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Core.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\BUS.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DAL.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DTO.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.Desktop.v20.2.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Data.v20.2.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Printing.v20.2.Core.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Sparkline.v20.2.Core.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Utils.v20.2.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.XtraEditors.v20.2.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Core.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\DevExpress.Pdf.v20.2.Drawing.xml
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Data.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Data.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Data.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Data.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Printing.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Printing.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Printing.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Printing.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Sparkline.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Utils.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Utils.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Utils.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Utils.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.XtraEditors.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.XtraEditors.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.XtraEditors.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.XtraEditors.v20.2.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\DevExpress.Pdf.v20.2.Core.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.dep
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\HiQPdf.rda
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.datPhong.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formEditKhachHang.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formHome.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formLogin.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formMain.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyDichVu.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyHoaDon.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyKhachHang.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyNhanVien.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyPhong.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formQuanLyTaiKhoan.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.formThanhToan.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.Properties.Resources.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\GUI.csproj.CopyComplete
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.exe
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.pdb
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\EnvDTE.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\stdole.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\Microsoft.MSXML.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.FormThongke.resources
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\RdlCompile.cache
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\RdlCompile.compiled
+D:\btl win\BTL_WIN\BTL_WIN\BTL_LAST\BTL_LAST\BTL_LAST\PMQLKS\PMQLKS\obj\Debug\PMQLKS.FormDangnhap.resources
